@@ -13,6 +13,7 @@ int main(){
             break;
         }
     }
+    
     if(isPrime){
         cout<<"Prime Numbber"<<endl;
     }else{
