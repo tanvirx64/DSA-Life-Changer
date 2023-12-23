@@ -10,7 +10,7 @@ int main(){
     while(n!=0){
         bit = n&1;
         reverseNumber += (pow(10, i) * bit);
-        n>>=1;
+        n>>=1; //Right shift 1 bit
         i++;
     }
     
