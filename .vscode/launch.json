@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "g:/tanvirx64/DSA-Life-Changer/C++/LeetCode",
-      "program": "g:/tanvirx64/DSA-Life-Changer/C++/LeetCode/build/Debug/outDebug",
+      "cwd": "g:/tanvirx64/DSA-Life-Changer/C++/Math",
+      "program": "g:/tanvirx64/DSA-Life-Changer/C++/Math/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
